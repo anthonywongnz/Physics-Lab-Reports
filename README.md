@@ -1,3 +1,3 @@
 # Physics-Lab-Reports
 
-Jupyter notebooks of some of my old physics experiments.
+A collection of Jupyter notebooks containing some of the graphing and visualisations I have created during my Physics studies.
